@@ -6,9 +6,7 @@ The Amazon Affiliate Link Add plugin is designed to help WordPress users easily 
 
 ## Features
 
-- Automatically convert specified keywords into Amazon affiliate links.
 - Customize the appearance of affiliate links.
-- Track clicks on affiliate links.
 - Easy-to-use interface for managing keywords and affiliate links.
 - Compatible with the latest version of WordPress.
 
@@ -23,7 +21,8 @@ The Amazon Affiliate Link Add plugin is designed to help WordPress users easily 
 
 1. Navigate to the plugin settings page in your WordPress dashboard.
 2. Add the keywords you want to convert into affiliate links.
-3. Enter your Amazon affiliate ID.
+3. Enter your Amazon product and and images.
+4. Shortcode is ready and easy to use anywhere in the website.
 4. Customize the appearance of the affiliate links if desired.
 5. Save your settings.
 
