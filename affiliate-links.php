@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Affiliate Links
-Description: A plugin to add affiliate links with images and display them in posts. Made with ♥️ by Mian Ali for venuspanas
+Description: A plugin to add affiliate links with images and display them in posts. Made with ♥️ by Mian Ali Khalid
 Version: 1.3.3
-Author: Mian Ali
+Author: Mian Ali Khalid
 */
 
 // Register Custom Post Type
